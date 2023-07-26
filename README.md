@@ -1,2 +1,2 @@
-# belajar-java-sesi-5
+# Belajar Java Sesi 5
 Studi kasus Java OOP: Aplikasi Todolist
